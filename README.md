@@ -1,10 +1,11 @@
-# 👋 Hi, I'm Amit Padhaan
+# 👋 Hi, I'm Amit Padhan
 
 🎓 B.Tech (2nd Year) Student  
 🛡️ Cybersecurity & Linux Enthusiast  
 🐧 Arch Linux User | Bash & Python Learner  
 
 I enjoy exploring how systems work under the hood — focusing on Linux internals, shell scripting, and hands-on cybersecurity labs.
+
 ---
 
 ## 🧠 What I'm Learning
@@ -20,7 +21,7 @@ I enjoy exploring how systems work under the hood — focusing on Linux internal
 - **Operating Systems:** Linux (Arch)
 - **Languages:** Bash, Python (basics)
 - **Tools:** Git, GitHub, sed, awk, grep
-- **Areas:** Cybersecurity fundamentals, scripting, system info tools
+- **Areas:** Linux internals, scripting, system automation, cybersecurity fundamentals
 
 ---
 
