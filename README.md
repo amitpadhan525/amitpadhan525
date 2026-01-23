@@ -4,8 +4,7 @@
 🛡️ Cybersecurity & Linux Enthusiast  
 🐧 Arch Linux User | Bash & Python Learner  
 
-I enjoy exploring how systems work under the hood — from Linux internals and shell scripting to basic security labs and automation.
-
+I enjoy exploring how systems work under the hood — focusing on Linux internals, shell scripting, and hands-on cybersecurity labs.
 ---
 
 ## 🧠 What I'm Learning
