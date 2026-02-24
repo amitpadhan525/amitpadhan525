@@ -1,50 +1,50 @@
 # 👋 Hi, I'm Amit Padhan
 
-🎓 B.Tech (2nd Year) Student  
-🛡️ Cybersecurity & Linux Enthusiast  
-🐧 Arch Linux User | Bash & Python Learner  
+🎓 B.Tech (2nd Year) | 🛡️ Cybersecurity-Focused Student
+🐧 Arch Linux User | ⚡ Bash & Python
 
-I enjoy exploring how systems work under the hood — focusing on Linux internals, shell scripting, and hands-on cybersecurity labs.
-
----
-
-## 🧠 What I'm Learning
-- Linux internals & system administration
-- Bash scripting & automation
-- Python for security & scripting
-- Networking fundamentals
-- Cybersecurity basics (labs & hands-on practice)
+I build and experiment with Linux systems, automation, and practical cybersecurity tools.
+Focused on understanding systems deeply — not just using them.
 
 ---
 
-## 🛠️ Skills & Tools
-- **Operating Systems:** Linux (Arch)
-- **Languages:** Bash, Python (basics)
-- **Tools:** Git, GitHub, sed, awk, grep
-- **Areas:** Linux internals, scripting, system automation, cybersecurity fundamentals
+## 🧠 Current Focus
+
+* Linux Internals & System Administration
+* Networking & TCP/IP
+* Bash Automation
+* Python for Security Tooling
+* Hands-on Cybersecurity Labs
 
 ---
 
-## 📂 Featured Projects
-- 🔐 **cybersecurity-labs** – Practice labs & notes for security concepts  
-- 🐚 **linux-bash-scripts** – Useful Bash scripts & automation  
-- ⚙️ **linux-dotfiles** – My Linux configuration files  
-- 🌐 **amitpadhan525.github.io** – Personal portfolio website  
+## 🛠 Tech Stack
+
+**OS:** Arch Linux (Daily Driver)
+**Languages:** Bash, Python
+**Tools:** Git, sed, awk, grep
+**Areas:** Linux Security, System Automation, Networking Basics
 
 ---
 
-## 🚀 Goals (2026)
-- Build stronger foundations in cybersecurity
-- Write clean and efficient Bash & Python scripts
-- Create practical security & Linux projects
-- Contribute to open-source (small but meaningful)
+## 🚀 Projects
+
+* 🔐 **Cybersecurity Labs** – Documented hands-on lab practice
+* 🐚 **Linux Automation Scripts** – Practical Bash utilities
+* ⚙️ **Dotfiles** – Custom Arch + Hyprland setup
+* 🌐 **Portfolio Website** – Personal site & documentation
 
 ---
 
-## 📫 Connect With Me
-- 📧 Email: amitpadhan525@gmail.com  
-- 🌐 GitHub: https://github.com/amitpadhan525
+## 🎯 2026 Goal
+
+Build practical Linux-based security tools and grow into a skilled Linux Security Engineer.
 
 ---
 
-⭐ *Learning by building, breaking, and fixing.*
+📫 **Contact:**
+[amitpadhan525@gmail.com](mailto:amitpadhan525@gmail.com)
+
+---
+
+⭐ *Build. Break. Fix. Repeat.*
