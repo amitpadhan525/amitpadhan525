@@ -16,7 +16,7 @@ I am a B.Tech student with a strong focus on **Cybersecurity**, **Linux systems*
 
 ### TryHackMe Profile
 My hands-on security practice and lab progress on TryHackMe:
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/amitpadhan525.png)](https://tryhackme.com/p/amitpadhan525)
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/amitpadhan181.png)](https://tryhackme.com/p/amitpadhan525)
 
 ---
 
@@ -28,7 +28,6 @@ My hands-on security practice and lab progress on TryHackMe:
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
