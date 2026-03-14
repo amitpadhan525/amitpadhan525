@@ -1,5 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:330000,100:ff0000&height=250&section=header&text=Amit%20Padhan&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Cybersecurity%20Enthusiast%20%7C%20Linux%20Power%20User%20%7C%20Python%20Developer&descAlignY=65&descAlign=50&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:330000,100:ff0000&height=3"/>
 
   <br>
 
@@ -44,7 +45,11 @@
     <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=bugcrowd&logoColor=white" />
     <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/Metasploit-E54A1E?style=for-the-badge&logo=metasploit&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQLmap-CC0000?style=for-the-badge&logo=databricks&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gobuster-000000?style=for-the-badge&logo=ghost&logoColor=white" />
+    <img src="https://img.shields.io/badge/JohnTheRipper-000000?style=for-the-badge&logo=john-deere&logoColor=white" />
+    <img src="https://img.shields.io/badge/Nikto-000000?style=for-the-badge&logo=ghost&logoColor=white" />
+    <img src="https://img.shields.io/badge/Hydra-000000?style=for-the-badge&logo=hydra&logoColor=white" />
   </p>
 </div>
 
@@ -59,6 +64,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amitpadhan525&show_icons=true&hide_border=true&bg_color=000000&title_color=ff0000&icon_color=ff0000&text_color=ffffff" height="195" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitpadhan525&layout=compact&hide_border=true&bg_color=000000&title_color=ff0000&text_color=ffffff" height="195" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitpadhan525&theme=highcontrast&hide_border=true&background=000000&ring=ff0000&fire=ff0000&currStreakLabel=ff0000" height="195" />
 </div>
 
 <br>
@@ -66,7 +73,7 @@
 <div align="center">
   <h3>🔥 TryHackMe Lab Progress 🔥</h3>
   <a href="https://tryhackme.com/p/amitpadhan525">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/amitpadhan181.png" alt="TryHackMe Profile" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/amitpadhan525.png" alt="TryHackMe Profile" />
   </a>
 </div>
 
@@ -88,13 +95,21 @@
       <h3>🌍 Project Highlights</h3>
       <ul>
         <li>💻 <b><a href="https://github.com/amitpadhan525/linux-dotfiles">linux-dotfiles</a>:</b> Hyper-customized Arch & Hyprland setup.</li>
-        <li>📜 <b><a href="https://github.com/amitpadhan525/linux-bash-scripts">linux-bash-scripts</a>:</b> Lethal Bash automation for system admin.</li>
+        <li>📜 <b><a href="https://github.com/amitpadhan525/linux-bash-scripts">linux-bash-scripts</a>:</b> Advanced Bash automation for Linux system administration.</li>
         <li>🚩 <b><a href="https://github.com/amitpadhan525/ctf-writeups">ctf-writeups</a>:</b> Detailed tactics & Walkthroughs for CTFs.</li>
         <li>🔬 <b><a href="https://github.com/amitpadhan525/cybersecurity-labs">cybersecurity-labs</a>:</b> Virtual playgrounds for zero-days.</li>
+        <li>🔎 <b><a href="https://github.com/amitpadhan525/vulnerability-research">vulnerability-research</a>:</b> IDOR analysis, Nmap discovery, & PrivEsc notes.</li>
       </ul>
     </td>
   </tr>
 </table>
+
+---
+
+<div align="center">
+  <h2> 🐍 Contribution Snake </h2>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</div>
 
 ---
 
