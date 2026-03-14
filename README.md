@@ -1,127 +1,41 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:330000,100:ff0000&height=250&section=header&text=Amit%20Padhan&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Cybersecurity%20Enthusiast%20%7C%20Linux%20Power%20User%20%7C%20Python%20Developer&descAlignY=65&descAlign=50&descSize=20" width="100%" />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:330000,100:ff0000&height=3"/>
+# Hi, I'm Amit! 👋
+**B.Tech 2nd Year Student | Learning Cybersecurity & Linux**
 
-  <br>
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7290F&center=true&vCenter=true&width=600&lines=System+Breaker_+Security+Maker;Linux+Power+User;Backend+%26+Automation+Developer;Consistency+Over+Shortcuts" alt="Typing SVG" />
-  </a>
-
-  <br><br>
-
-  <img src="https://komarev.com/ghpvc/?username=amitpadhan525&label=PROFILE+VIEWS&style=for-the-badge&color=ff0000" alt="Profile Views" />
-</div>
-
-<br>
-
-<div align="center">
-  <p><h3><b>🛡️ Transforming caffeine & curiosity into secure code & broken systems 🐧</b></h3></p>
-  <p>I am a B.Tech student with an obsession for <b>Cybersecurity</b>, <b>Linux internals</b>, and <b>Backend architecture</b>. I don't just study vulnerabilities—I exploit them in labs to learn how to patch them in the real world. From writing system automation in Bash to bridging AI with security principles, my goal is mastery through execution.</p>
-</div>
+> *"I love using Linux and learning how stuff actually works under the hood."*
 
 ---
 
-<div align="center">
-  <h2> 🛠️ Technologies & Arsenal </h2>
-
-  <br>
-
-  <h3>💻 Languages & OS</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-    <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-    <img src="https://img.shields.io/badge/Linux_Kernel-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  </p>
-
-  <br>
-
-  <h3>🗡️ Offensive & Defensive Tools</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nordvpn&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=bugcrowd&logoColor=white" />
-    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/Metasploit-E54A1E?style=for-the-badge&logo=metasploit&logoColor=white" />
-    <img src="https://img.shields.io/badge/SQLmap-CC0000?style=for-the-badge&logo=databricks&logoColor=white" />
-    <img src="https://img.shields.io/badge/Gobuster-000000?style=for-the-badge&logo=ghost&logoColor=white" />
-    <img src="https://img.shields.io/badge/JohnTheRipper-000000?style=for-the-badge&logo=john-deere&logoColor=white" />
-    <img src="https://img.shields.io/badge/Nikto-000000?style=for-the-badge&logo=ghost&logoColor=white" />
-    <img src="https://img.shields.io/badge/Hydra-000000?style=for-the-badge&logo=hydra&logoColor=white" />
-  </p>
-</div>
-
-<br>
+### 👤 About Me
+I'm a 2nd-year B.Tech student who is really into **Cybersecurity** and **Linux**. I spend a lot of my time on **TryHackMe** solving rooms and learning how to find vulnerabilities. I also like automating things with **Python** and **Bash**.
 
 ---
 
-<div align="center">
-  <h2> 📊 Cyber & Coding Analytics </h2>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amitpadhan525&show_icons=true&hide_border=true&bg_color=000000&title_color=ff0000&icon_color=ff0000&text_color=ffffff" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitpadhan525&layout=compact&hide_border=true&bg_color=000000&title_color=ff0000&text_color=ffffff" height="195" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitpadhan525&theme=highcontrast&hide_border=true&background=000000&ring=ff0000&fire=ff0000&currStreakLabel=ff0000" height="195" />
-</div>
-
-<br>
-
-<div align="center">
-  <h3>🔥 TryHackMe Lab Progress 🔥</h3>
-  <a href="https://tryhackme.com/p/amitpadhan525">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/amitpadhan525.png" alt="TryHackMe Profile" />
-  </a>
-</div>
+### 🛠️ Stuff I Use
+- **Coding & OS:** Python, C++, Bash, Arch Linux (my daily driver), Kali Linux.
+- **Security Tools:** Nmap, Burp Suite, Wireshark, Metasploit, SQLmap.
+- **Currently Learning:** Web hacking, Networking basics, and local AI stuff.
 
 ---
 
-## ⚡ Current Operations
+### 📊 My Stats
+- **GitHub:**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amitpadhan525&show_icons=true&theme=dark&hide_border=true)
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 Learning Focus</h3>
-      <ul>
-        <li>🔐 <b>Exploitation & PrivEsc:</b> Conquering rooms on TryHackMe, dissecting OWASP Top 10 web vulnerabilities.</li>
-        <li>📡 <b>Network & SysAdmin:</b> Deep TCP/IP networking, subnetting, and advanced kernel-level routing.</li>
-        <li>🤖 <b>AI Integration:</b> Architecting AI-powered virtual assistants for local deployments with Encrypted keys.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌍 Project Highlights</h3>
-      <ul>
-        <li>💻 <b><a href="https://github.com/amitpadhan525/linux-dotfiles">linux-dotfiles</a>:</b> Hyper-customized Arch & Hyprland setup.</li>
-        <li>📜 <b><a href="https://github.com/amitpadhan525/linux-bash-scripts">linux-bash-scripts</a>:</b> Advanced Bash automation for Linux system administration.</li>
-        <li>🚩 <b><a href="https://github.com/amitpadhan525/ctf-writeups">ctf-writeups</a>:</b> Detailed tactics & Walkthroughs for CTFs.</li>
-        <li>🔬 <b><a href="https://github.com/amitpadhan525/cybersecurity-labs">cybersecurity-labs</a>:</b> Virtual playgrounds for zero-days.</li>
-        <li>🔎 <b><a href="https://github.com/amitpadhan525/vulnerability-research">vulnerability-research</a>:</b> IDOR analysis, Nmap discovery, & PrivEsc notes.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+- **TryHackMe ([@amitpadhan525](https://tryhackme.com/p/amitpadhan525)):**
+  - **Level:** 8 ([0x8][HACKER])
+  - **Rank:** 193,890 (Top 10%)
+  - **Rooms:** 57 completed
+  - **Streak:** 39 Days 🔥
 
 ---
 
-<div align="center">
-  <h2> 🐍 Contribution Snake </h2>
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</div>
+### 🚀 Small Projects
+- 💻 **[linux-dotfiles](https://github.com/amitpadhan525/linux-dotfiles)**: My customized Linux setup.
+- 📜 **[linux-bash-scripts](https://github.com/amitpadhan525/linux-bash-scripts)**: Simple scripts to make Linux life easier.
+- 🚩 **[ctf-writeups](https://github.com/amitpadhan525/ctf-writeups)**: Notes on how I solved different CTF challenges.
+- 🔎 **[vulnerability-research](https://github.com/amitpadhan525/vulnerability-research)**: Just some notes on bugs and security.
 
 ---
 
-<div align="center">
-  <h2> 📡 Comm Link Established </h2>
-
-  <p><b>
-    <a href="https://linkedin.com/in/amit-padhan">LinkedIn</a> | 
-    <a href="mailto:amitpadhan525@gmail.com">Email</a> | 
-    <a href="https://amitpadhan525.github.io">Portfolio</a> | 
-    <a href="https://instagram.com/a_m_i_t_01234">Instagram</a>
-  </b></p>
-
-  <i>"Linux is not just my operating system — it’s the foundation of my technical growth."</i>
-</div>
+### 🤝 Let's Connect
+[LinkedIn](https://linkedin.com/in/amit-padhan) | [Portfolio](https://amitpadhan525.github.io) | [Instagram](https://instagram.com/a_m_i_t_01234) | [Email](mailto:amitpadhan525@gmail.com)
