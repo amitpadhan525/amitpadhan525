@@ -1,76 +1,108 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Amit%20Padhan&fontSize=60&fontAlignY=38&desc=Cybersecurity%20Enthusiast%20%7C%20Linux%20Power%20User%20%7C%20Python%20Developer&descAlignY=60&descAlign=50)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:330000,100:ff0000&height=250&section=header&text=Amit%20Padhan&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Cybersecurity%20Enthusiast%20%7C%20Linux%20Power%20User%20%7C%20Python%20Developer&descAlignY=65&descAlign=50&descSize=20" width="100%" />
 
-# 👋 Hi, I'm Amit Padhan (@amitpadhan525)
+  <br>
 
-I am a B.Tech student with a strong focus on **Cybersecurity**, **Linux systems**, and **backend development**. I enjoy exploring Linux internals, scripting, and diving deep into cybersecurity labs. I don’t just study concepts — I implement them, test them, and build projects around them to bridge the gap between AI and security. My goal is continuous self-improvement and building secure systems.
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7290F&center=true&vCenter=true&width=600&lines=System+Breaker_+Security+Maker;Linux+Power+User;Backend+%26+Automation+Developer;Consistency+Over+Shortcuts" alt="Typing SVG" />
+  </a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=amitpadhan525)
+  <br><br>
 
----
+  <img src="https://komarev.com/ghpvc/?username=amitpadhan525&label=PROFILE+VIEWS&style=for-the-badge&color=ff0000" alt="Profile Views" />
+</div>
 
-## 📈 My Stats & Profiles
+<br>
 
-### GitHub Activity
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amitpadhan525&show_icons=true&theme=radical&hide_border=true)](https://github.com/amitpadhan525)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amitpadhan525&layout=compact&theme=radical&hide_border=true)](https://github.com/amitpadhan525)
-
-### TryHackMe Profile
-My hands-on security practice and lab progress on TryHackMe:
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/amitpadhan181.png)](https://tryhackme.com/p/amitpadhan525)
-
----
-
-## 🛠 Tech Stack & Skills
-
-### 💻 Programming & OS
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### 🛡️ Security Tools
-![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-E54A1E?style=for-the-badge&logo=metasploit&logoColor=white)
-![Hydra](https://img.shields.io/badge/Hydra-000000?style=for-the-badge)
+<div align="center">
+  <p><h3><b>🛡️ Transforming caffeine & curiosity into secure code & broken systems 🐧</b></h3></p>
+  <p>I am a B.Tech student with an obsession for <b>Cybersecurity</b>, <b>Linux internals</b>, and <b>Backend architecture</b>. I don't just study vulnerabilities—I exploit them in labs to learn how to patch them in the real world. From writing system automation in Bash to bridging AI with security principles, my goal is mastery through execution.</p>
+</div>
 
 ---
 
-## 🧠 What I'm Doing & Learning
+<div align="center">
+  <h2> 🛠️ Technologies & Arsenal </h2>
+</div>
 
-- 🔐 **Cybersecurity Practice:** Completing paths like the **Pre Security Path** on TryHackMe, sharpening web exploitation and privilege escalation skills.
-- 📡 **Networking & Systems:** Deep dive into TCP/IP, OSI, subnetting, and robust database architectures.
-- 🐧 **Linux & System-Level Work:** Arch Linux power user. Managing persistent USB installations and exploring bootloader mechanics.
-- 🤖 **Development Projects:** Building an AI virtual assistant with Python and exploring secure socket programming applications.
+<div align="center">
+
+### 💻 Languages & OS
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux_Kernel-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+
+### 🗡️ Offensive & Defensive Tools
+<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nordvpn&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=bugcrowd&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Metasploit-E54A1E?style=for-the-badge&logo=metasploit&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+
+</div>
+
+<br>
 
 ---
 
-## 🚀 Repositories & Projects
-Driven by my mindset of "Building before claiming knowledge," here are my primary focuses:
-- 💻 **[linux-dotfiles](https://github.com/amitpadhan525/linux-dotfiles):** Custom configurations for my daily driver (Arch Linux + Hyprland).
-- 📜 **[linux-bash-scripts](https://github.com/amitpadhan525/linux-bash-scripts):** System automation and utility scripts in Bash.
-- 🔬 **[cybersecurity-labs](https://github.com/amitpadhan525/cybersecurity-labs):** Hands-on practice and vulnerability analysis.
-- 🚩 **[ctf-writeups](https://github.com/amitpadhan525/ctf-writeups):** Documented solutions for CTFs and challenge rooms from TryHackMe and HackTheBox.
-- 📓 **[security-notes](https://github.com/amitpadhan525/security-notes):** Documented learnings from THM, HTB, and general ethical hacking methodologies.
-- 🌐 **[web-app-projects](https://github.com/amitpadhan525/web-app-projects):** Building secure and dynamic applications.
-- 🏆 **[amitpadhan525.github.io](https://github.com/amitpadhan525/amitpadhan525.github.io):** My personal portfolio and labs collection.
+<div align="center">
+  <h2> 📊 Cyber & Coding Analytics </h2>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amitpadhan525&show_icons=true&theme=blood&hide_border=true&bg_color=000000&title_color=ff0000&icon_color=ff0000&text_color=ffffff" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitpadhan525&layout=compact&theme=blood&hide_border=true&bg_color=000000&title_color=ff0000&text_color=ffffff" height="195" />
+</div>
+
+<br>
+
+<div align="center">
+  <h3>🔥 TryHackMe Lab Progress 🔥</h3>
+  <a href="https://tryhackme.com/p/amitpadhan525">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/amitpadhan181.png" alt="TryHackMe Profile" />
+  </a>
+</div>
 
 ---
 
-## 🎯 My Mindset
-> *Consistency over shortcuts.* 
-> *Building before claiming knowledge.*
-> *Linux is not just my operating system — it’s the foundation of my technical growth.*
+## ⚡ Current Operations
 
-📫 **Connect with me:**
-- 🌐 **Portfolio:** [amitpadhan525.github.io](https://amitpadhan525.github.io)
-- ✉️ **Email:** [amitpadhan525@gmail.com](mailto:amitpadhan525@gmail.com)
-- 💼 **LinkedIn:** [amit-padhan](https://linkedin.com/in/amit-padhan)
-- 📸 **Instagram:** [@a_m_i_t_01234](https://instagram.com/a_m_i_t_01234)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 Learning Focus</h3>
+      <ul>
+        <li>🔐 <b>Exploitation & PrivEsc:</b> Conquering rooms on TryHackMe, dissecting OWASP Top 10 web vulnerabilities.</li>
+        <li>📡 <b>Network & SysAdmin:</b> Deep TCP/IP networking, subnetting, and advanced kernel-level routing.</li>
+        <li>🤖 <b>AI Integration:</b> Architecting AI-powered virtual assistants for local deployments with Encrypted keys.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌍 Project Highlights</h3>
+      <ul>
+        <li>💻 <b><a href="https://github.com/amitpadhan525/linux-dotfiles">linux-dotfiles</a>:</b> Hyper-customized Arch & Hyprland setup.</li>
+        <li>📜 <b><a href="https://github.com/amitpadhan525/linux-bash-scripts">linux-bash-scripts</a>:</b> Lethal Bash automation for system admin.</li>
+        <li>🚩 <b><a href="https://github.com/amitpadhan525/ctf-writeups">ctf-writeups</a>:</b> Detailed tactics & Walkthroughs for CTFs.</li>
+        <li>🔬 <b><a href="https://github.com/amitpadhan525/cybersecurity-labs">cybersecurity-labs</a>:</b> Virtual playgrounds for zero-days.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+  <h2> 📡 Comm Link Established </h2>
+
+  <p>
+    <a href="https://linkedin.com/in/amit-padhan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:amitpadhan525@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://amitpadhan525.github.io"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://instagram.com/a_m_i_t_01234"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  </p>
+
+  <i>"Linux is not just my operating system — it’s the foundation of my technical growth."</i>
+</div>
