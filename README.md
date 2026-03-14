@@ -57,8 +57,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amitpadhan525&show_icons=true&theme=blood&hide_border=true&bg_color=000000&title_color=ff0000&icon_color=ff0000&text_color=ffffff" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitpadhan525&layout=compact&theme=blood&hide_border=true&bg_color=000000&title_color=ff0000&text_color=ffffff" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amitpadhan525&show_icons=true&hide_border=true&bg_color=000000&title_color=ff0000&icon_color=ff0000&text_color=ffffff" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitpadhan525&layout=compact&hide_border=true&bg_color=000000&title_color=ff0000&text_color=ffffff" height="195" />
 </div>
 
 <br>
@@ -101,12 +101,12 @@
 <div align="center">
   <h2> 📡 Comm Link Established </h2>
 
-  <p>
-    <a href="https://linkedin.com/in/amit-padhan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:amitpadhan525@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://amitpadhan525.github.io"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-    <a href="https://instagram.com/a_m_i_t_01234"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  </p>
+  <p><b>
+    <a href="https://linkedin.com/in/amit-padhan">LinkedIn</a> | 
+    <a href="mailto:amitpadhan525@gmail.com">Email</a> | 
+    <a href="https://amitpadhan525.github.io">Portfolio</a> | 
+    <a href="https://instagram.com/a_m_i_t_01234">Instagram</a>
+  </b></p>
 
   <i>"Linux is not just my operating system — it’s the foundation of my technical growth."</i>
 </div>
