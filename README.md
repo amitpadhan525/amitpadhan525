@@ -1,41 +1,90 @@
-# Hi, I'm Amit! 👋
-**B.Tech 2nd Year Student | Learning Cybersecurity & Linux**
+# <p align="center">Hi there, I'm Amit! 👋</p>
 
-> *"I love using Linux and learning how stuff actually works under the hood."*
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=B.Tech+Student;Arch+Linux+Enthusiast+%F0%9F%90%A7;Cybersecurity+Learner+%F0%9F%94%92;Automation+Script+Writer+%F0%9F%92%BB" alt="Typing SVG" />
+</p>
 
 ---
 
 ### 👤 About Me
-I'm a 2nd-year B.Tech student who is really into **Cybersecurity** and **Linux**. I spend a lot of my time on **TryHackMe** solving rooms and learning how to find vulnerabilities. I also like automating things with **Python** and **Bash**.
+
+I am a 2nd-year B.Tech student with a deep passion for **Linux internals** and **Cybersecurity**. I love exploring how systems work under the hood and spend a significant amount of my time sharpening my skills on **TryHackMe**. I am a dedicated **Arch Linux** user (btw) and I enjoy automating repetitive tasks using Python and Bash.
+
+- 🔭 I’m currently working on building more robust Linux automation scripts.
+- 🌱 I’m currently learning **Advanced Networking**, **Web Security**, and **Linux Internals**.
+- 🛠️ Daily driver: **Arch Linux** with a custom-configured environment.
+- 🎯 Goal: To become a proficient Security Researcher/Engineer.
 
 ---
 
-### 🛠️ Stuff I Use
-- **Coding & OS:** Python, C++, Bash, Arch Linux (my daily driver), Kali Linux.
-- **Security Tools:** Nmap, Burp Suite, Wireshark, Metasploit, SQLmap.
-- **Currently Learning:** Web hacking, Networking basics, and local AI stuff.
+### 💻 Tech Stack & Skills
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</p>
+
+**Security & Tools:**
+- **Network Analysis:** Nmap, Wireshark, TCPDump.
+- **Exploitation:** Metasploit, Burp Suite, SQLmap.
+- **Environment:** Vim/Neovim, Git, Docker (Basic), Shell Scripting.
 
 ---
 
-### 📊 My Stats
-- **GitHub:**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amitpadhan525&show_icons=true&theme=dark&hide_border=true)
+### 📊 Performance & Stats
 
-- **TryHackMe ([@amitpadhan525](https://tryhackme.com/p/amitpadhan525)):**
-  - **Level:** 8 ([0x8][HACKER])
-  - **Rank:** 193,890 (Top 10%)
-  - **Rooms:** 57 completed
-  - **Streak:** 39 Days 🔥
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=amitpadhan525&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitpadhan525&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <h4>TryHackMe Progress</h4>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/amitpadhan525.png" alt="TryHackMe Badge" />
+  <p>
+    <b>Level:</b> 8 ([0x8] Hacker) | <b>Rooms Completed:</b> 57 | <b>Streak:</b> 40 Days 🔥
+  </p>
+</div>
 
 ---
 
-### 🚀 Small Projects
-- 💻 **[linux-dotfiles](https://github.com/amitpadhan525/linux-dotfiles)**: My customized Linux setup.
-- 📜 **[linux-bash-scripts](https://github.com/amitpadhan525/linux-bash-scripts)**: Simple scripts to make Linux life easier.
-- 🚩 **[ctf-writeups](https://github.com/amitpadhan525/ctf-writeups)**: Notes on how I solved different CTF challenges.
-- 🔎 **[vulnerability-research](https://github.com/amitpadhan525/vulnerability-research)**: Just some notes on bugs and security.
+### 🚀 Key Projects
+
+- 🐧 **[linux-dotfiles](https://github.com/amitpadhan525/linux-dotfiles)**: My personal Arch Linux configuration (WM, Polybar, Neovim, etc.).
+- 📜 **[linux-bash-scripts](https://github.com/amitpadhan525/linux-bash-scripts)**: A collection of bash scripts for system maintenance and automation.
+- 🚩 **[ctf-writeups](https://github.com/amitpadhan525/ctf-writeups)**: Detailed walkthroughs of various CTF challenges I've solved.
+- 🔎 **[vulnerability-research](https://github.com/amitpadhan525/vulnerability-research)**: Notes and research on common vulnerabilities and security best practices.
 
 ---
 
-### 🤝 Let's Connect
-[LinkedIn](https://linkedin.com/in/amit-padhan) | [Portfolio](https://amitpadhan525.github.io) | [Instagram](https://instagram.com/a_m_i_t_01234) | [Email](mailto:amitpadhan525@gmail.com)
+### 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/amit-padhan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://amitpadhan525.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-255E00?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/a_m_i_t_01234" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:amitpadhan525@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>"I love using Linux and learning how stuff actually works under the hood."</i>
+</p>
