@@ -1,7 +1,7 @@
 # <p align="center">Hi there, I'm Amit! 👋</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=B.Tech+Student;Arch+Linux+Enthusiast+%F0%9F%90%A7;Cybersecurity+Learner+%F0%9F%94%92;Automation+Script+Writer+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF3E83&center=true&vCenter=true&width=500&lines=B.Tech+Student;Arch+Linux+Enthusiast+%F0%9F%90%A7;Cybersecurity+Learner+%F0%9F%94%92;Automation+Script+Writer+%F0%9F%92%BB+;Security+Researcher+In+The+Making" alt="Typing SVG" />
 </p>
 
 ---
@@ -36,24 +36,23 @@ I am a 2nd-year B.Tech student with a deep passion for **Linux internals** and *
 
 ### 📊 Performance & Stats
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=amitpadhan525&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitpadhan525&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amitpadhan525&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitpadhan525&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitpadhan525&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
 <div align="center">
-  <h4>TryHackMe Progress</h4>
-  <img src="https://tryhackme-badges.s3.amazonaws.com/amitpadhan525.png" alt="TryHackMe Badge" />
+  <h4>🛡️ TryHackMe Progress</h4>
+  <a href="https://tryhackme.com/p/amitpadhan525" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/amitpadhan525.png" alt="TryHackMe Badge" />
+  </a>
+  <br/>
   <p>
-    <b>Level:</b> 8 ([0x8] Hacker) | <b>Rooms Completed:</b> 57 | <b>Streak:</b> 40 Days 🔥
+    <b>Level:</b> 8 ([0x8] Hacker) | <b>Rooms Completed:</b> 58 | <b>Streak:</b> 41 Days 🔥 | <b>Rank:</b> Top 9%
   </p>
 </div>
 
@@ -88,3 +87,4 @@ I am a 2nd-year B.Tech student with a deep passion for **Linux internals** and *
 <p align="center">
   <i>"I love using Linux and learning how stuff actually works under the hood."</i>
 </p>
+
