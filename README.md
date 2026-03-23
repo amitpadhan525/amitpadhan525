@@ -56,6 +56,19 @@ I am a 2nd-year B.Tech student with a deep passion for **Linux internals** and *
   </p>
 </div>
 
+<div align="center">
+  <h4>🟢 HackerRank Progress</h4>
+  <a href="https://www.hackerrank.com/profile/amitpadhan525" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge" />
+  </a>
+  <br/>
+  <!-- hackerrank_start -->
+  <p>
+    <b>Title:</b> O(2&lt;sup&gt;N&lt;/sup&gt;) | <b>Python Badge:</b> 3 Stars ⭐⭐⭐ | <b>Points:</b> 205 | <b>Level:</b> 2
+  </p>
+  <!-- hackerrank_end -->
+</div>
+
 ---
 
 ### 🚀 Key Projects
@@ -81,6 +94,9 @@ I am a 2nd-year B.Tech student with a deep passion for **Linux internals** and *
   </a>
   <a href="mailto:amitpadhan525@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/amitpadhan525" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
 </p>
 
