@@ -14,17 +14,29 @@
 
 ## 👾 About Me
 
-```python
-class AmitPadhan:
-    location    = "India 🇮🇳"
-    education   = "B.Tech Student"
-    os          = "Arch Linux (btw)"
-    interests   = ["Cybersecurity", "Linux Internals", "CTF", "Scripting"]
-    learning    = ["Web Security", "Advanced Networking", "Penetration Testing"]
-    tools       = ["Neovim", "Hyprland", "Tmux", "Git", "Docker"]
-    goal        = "Become a proficient Security Researcher / Pentester"
-    fun_fact    = "I rice my desktop more than I rice my food 🍚"
-```
+<table>
+  <tr>
+    <td>🎓</td><td><b>Education</b></td><td>B.Tech Student</td>
+  </tr>
+  <tr>
+    <td>🌍</td><td><b>Location</b></td><td>India</td>
+  </tr>
+  <tr>
+    <td>🐧</td><td><b>Daily Driver</b></td><td>Arch Linux with custom Hyprland setup</td>
+  </tr>
+  <tr>
+    <td>🔐</td><td><b>Interests</b></td><td>Cybersecurity · Linux Internals · CTF · Scripting</td>
+  </tr>
+  <tr>
+    <td>📖</td><td><b>Currently Learning</b></td><td>Web Security · Advanced Networking · Penetration Testing</td>
+  </tr>
+  <tr>
+    <td>🎯</td><td><b>Goal</b></td><td>Become a proficient Security Researcher / Pentester</td>
+  </tr>
+  <tr>
+    <td>⚡</td><td><b>Fun Fact</b></td><td>I rice my desktop more than I rice my food 🍚</td>
+  </tr>
+</table>
 
 ---
 
