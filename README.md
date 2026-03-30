@@ -8,12 +8,14 @@
 
 ### 👤 About Me
 
-I am a 2nd-year B.Tech student with a deep passion for **Linux internals** and **Cybersecurity**. I love exploring how systems work under the hood and spend a significant amount of my time sharpening my skills on **TryHackMe**. I am a dedicated **Arch Linux** user (btw) and I enjoy automating repetitive tasks using Python and Bash.
+I am a B.Tech student with a deep passion for **Linux internals** and **Cybersecurity**. I love exploring how systems work under the hood and spend a significant amount of my time sharpening my skills on **TryHackMe**. I am a dedicated **Arch Linux** user (btw) and I enjoy automating repetitive tasks using Python and Bash.
 
-- 🔭 I’m currently working on building more robust Linux automation scripts.
-- 🌱 I’m currently learning **Advanced Networking**, **Web Security**, and **Linux Internals**.
-- 🛠️ Daily driver: **Arch Linux** with a custom-configured environment.
-- 🎯 Goal: To become a proficient Security Researcher/Engineer.
+- 🔭 Currently working on building more robust Linux automation scripts.
+- 🌱 Currently learning **Advanced Networking**, **Web Security**, and **Linux Internals**.
+- 🛠️ Daily driver: **Arch Linux** with a fully custom-configured environment.
+- 🎯 Goal: To become a proficient **Security Researcher / Penetration Tester**.
+- 🏅 **Pre Security** path certified on TryHackMe (Feb 22, 2026).
+- 🌍 Based in **India** 🇮🇳
 
 ---
 
@@ -28,9 +30,9 @@ I am a 2nd-year B.Tech student with a deep passion for **Linux internals** and *
 </p>
 
 **Security & Tools:**
-- **Network Analysis:** Nmap, Wireshark, TCPDump.
-- **Exploitation:** Metasploit, Burp Suite, SQLmap.
-- **Environment:** Vim/Neovim, Git, Docker (Basic), Shell Scripting.
+- **Network Analysis:** Nmap, Wireshark, TCPDump
+- **Exploitation:** Metasploit, Burp Suite, SQLmap
+- **Environment:** Vim/Neovim, Git, Docker (Basic), Shell Scripting
 
 ---
 
@@ -45,28 +47,55 @@ I am a 2nd-year B.Tech student with a deep passion for **Linux internals** and *
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitpadhan525&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
+---
+
+### 🛡️ TryHackMe Progress
+
 <div align="center">
-  <h4>🛡️ TryHackMe Progress</h4>
   <a href="https://tryhackme.com/p/amitpadhan525" target="_blank">
     <img src="https://tryhackme-badges.s3.amazonaws.com/amitpadhan525.png" alt="TryHackMe Badge" />
   </a>
   <br/>
   <p>
-    <b>Level:</b> 8 ([0x8] Hacker) | <b>Rooms Completed:</b> 58 | <b>Streak:</b> 41 Days 🔥 | <b>Rank:</b> Top 9%
+    <b>Level:</b> [0x8] HACKER &nbsp;|&nbsp;
+    <b>Global Rank:</b> #182,438 (Top 9%) &nbsp;|&nbsp;
+    <b>Rooms Completed:</b> 61 &nbsp;|&nbsp;
+    <b>Streak:</b> 54 Days 🔥 &nbsp;|&nbsp;
+    <b>Badges:</b> 10
+  </p>
+  <p>
+    <b>🏅 Certification:</b> Pre Security &nbsp;|&nbsp;
+    <b>📚 Currently Enrolled:</b> Cyber Security 101
   </p>
 </div>
 
+#### 🏆 Earned Badges
+
+| Badge | Description |
+|---|---|
+| 🐧 cat linux.txt | Being competent in Linux |
+| 🚀 First Four | Completing four rooms in your first week |
+| 🔥 3 Day Streak | Achieving a 3-day hacking streak |
+| 🔥 7 Day Streak | Achieving a 7-day hacking streak |
+| 🔓 Hash Cracker | Cracking all those hashes |
+| 🌐 Networking Nerd | Completing the 'Network Fundamentals' module |
+| 🕸️ Webbed | Understanding how the world wide web works |
+| 🌍 World Wide Web | Completing the 'How The Web Works' module |
+| 🔥 30 Day Streak | Hacking for 30 days solid |
+| 🎖️ Session Held | Completing 4 weekly missions in a row (Epic!) |
+
+---
+
+### 🟢 HackerRank Progress
+
 <div align="center">
-  <h4>🟢 HackerRank Progress</h4>
   <a href="https://www.hackerrank.com/profile/amitpadhan525" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge" />
   </a>
   <br/>
-  <!-- hackerrank_start -->
   <p>
-    <b>Title:</b> O(2&lt;sup&gt;N&lt;/sup&gt;) | <b>Python Badge:</b> 3 Stars ⭐⭐⭐ | <b>Points:</b> 205 | <b>Level:</b> 2
+    <b>Title:</b> O(2<sup>N</sup>) &nbsp;|&nbsp; <b>Python Badge:</b> 3 Stars ⭐⭐⭐ &nbsp;|&nbsp; <b>Points:</b> 205 &nbsp;|&nbsp; <b>Level:</b> 2
   </p>
-  <!-- hackerrank_end -->
 </div>
 
 ---
@@ -98,9 +127,11 @@ I am a 2nd-year B.Tech student with a deep passion for **Linux internals** and *
   <a href="https://www.hackerrank.com/profile/amitpadhan525" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
+  <a href="https://tryhackme.com/p/amitpadhan525" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
   <i>"I love using Linux and learning how stuff actually works under the hood."</i>
 </p>
-
