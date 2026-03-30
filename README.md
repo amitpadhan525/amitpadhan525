@@ -1,137 +1,156 @@
-# <p align="center">Hi there, I'm Amit! 👋</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF3E83&center=true&vCenter=true&width=500&lines=B.Tech+Student;Arch+Linux+Enthusiast+%F0%9F%90%A7;Cybersecurity+Learner+%F0%9F%94%92;Automation+Script+Writer+%F0%9F%92%BB+;Security+Researcher+In+The+Making" alt="Typing SVG" />
-</p>
-
----
-
-### 👤 About Me
-
-I am a B.Tech student with a deep passion for **Linux internals** and **Cybersecurity**. I love exploring how systems work under the hood and spend a significant amount of my time sharpening my skills on **TryHackMe**. I am a dedicated **Arch Linux** user (btw) and I enjoy automating repetitive tasks using Python and Bash.
-
-- 🔭 Currently working on building more robust Linux automation scripts.
-- 🌱 Currently learning **Advanced Networking**, **Web Security**, and **Linux Internals**.
-- 🛠️ Daily driver: **Arch Linux** with a fully custom-configured environment.
-- 🎯 Goal: To become a proficient **Security Researcher / Penetration Tester**.
-- 🏅 **Pre Security** path certified on TryHackMe (Feb 22, 2026).
-- 🌍 Based in **India** 🇮🇳
-
----
-
-### 💻 Tech Stack & Skills
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-</p>
-
-**Security & Tools:**
-- **Network Analysis:** Nmap, Wireshark, TCPDump
-- **Exploitation:** Metasploit, Burp Suite, SQLmap
-- **Environment:** Vim/Neovim, Git, Docker (Basic), Shell Scripting
-
----
-
-### 📊 Performance & Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amitpadhan525&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitpadhan525&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitpadhan525&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-### 🛡️ TryHackMe Progress
-
 <div align="center">
-  <a href="https://tryhackme.com/p/amitpadhan525" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/amitpadhan525.png" alt="TryHackMe Badge" />
-  </a>
-  <br/>
-  <p>
-    <b>Level:</b> [0x8] HACKER &nbsp;|&nbsp;
-    <b>Global Rank:</b> #182,438 (Top 9%) &nbsp;|&nbsp;
-    <b>Rooms Completed:</b> 61 &nbsp;|&nbsp;
-    <b>Streak:</b> 54 Days 🔥 &nbsp;|&nbsp;
-    <b>Badges:</b> 10
-  </p>
-  <p>
-    <b>🏅 Certification:</b> Pre Security &nbsp;|&nbsp;
-    <b>📚 Currently Enrolled:</b> Cyber Security 101
-  </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Amit%20Padhan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Security%20Enthusiast%20%7C%20Linux%20Nerd%20%7C%20CTF%20Player&descAlignY=55&descSize=18" />
+
 </div>
 
-#### 🏆 Earned Badges
-
-| Badge | Description |
-|---|---|
-| 🐧 cat linux.txt | Being competent in Linux |
-| 🚀 First Four | Completing four rooms in your first week |
-| 🔥 3 Day Streak | Achieving a 3-day hacking streak |
-| 🔥 7 Day Streak | Achieving a 7-day hacking streak |
-| 🔓 Hash Cracker | Cracking all those hashes |
-| 🌐 Networking Nerd | Completing the 'Network Fundamentals' module |
-| 🕸️ Webbed | Understanding how the world wide web works |
-| 🌍 World Wide Web | Completing the 'How The Web Works' module |
-| 🔥 30 Day Streak | Hacking for 30 days solid |
-| 🎖️ Session Held | Completing 4 weekly missions in a row (Epic!) |
-
----
-
-### 🟢 HackerRank Progress
-
 <div align="center">
-  <a href="https://www.hackerrank.com/profile/amitpadhan525" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge" />
-  </a>
-  <br/>
-  <p>
-    <b>Title:</b> O(2<sup>N</sup>) &nbsp;|&nbsp; <b>Python Badge:</b> 3 Stars ⭐⭐⭐ &nbsp;|&nbsp; <b>Points:</b> 205 &nbsp;|&nbsp; <b>Level:</b> 2
-  </p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF3E83&center=true&vCenter=true&repeat=true&width=540&lines=B.Tech+Student+%F0%9F%8E%93;Arch+Linux+Enthusiast+%F0%9F%90%A7;TryHackMe+%5B0x8%5D+Hacker+%F0%9F%94%92;CTF+Player+%26+Script+Writer+%F0%9F%92%BB;Security+Researcher+In+The+Making+%E2%9A%94%EF%B8%8F)](https://git.io/typing-svg)
+
 </div>
 
 ---
 
-### 🚀 Key Projects
+## 👾 About Me
 
-- 🐧 **[linux-dotfiles](https://github.com/amitpadhan525/linux-dotfiles)**: My personal Arch Linux configuration (WM, Polybar, Neovim, etc.).
-- 📜 **[linux-bash-scripts](https://github.com/amitpadhan525/linux-bash-scripts)**: A collection of bash scripts for system maintenance and automation.
-- 🚩 **[ctf-writeups](https://github.com/amitpadhan525/ctf-writeups)**: Detailed walkthroughs of various CTF challenges I've solved.
-- 🔎 **[vulnerability-research](https://github.com/amitpadhan525/vulnerability-research)**: Notes and research on common vulnerabilities and security best practices.
+```python
+class AmitPadhan:
+    location    = "India 🇮🇳"
+    education   = "B.Tech Student"
+    os          = "Arch Linux (btw)"
+    interests   = ["Cybersecurity", "Linux Internals", "CTF", "Scripting"]
+    learning    = ["Web Security", "Advanced Networking", "Penetration Testing"]
+    tools       = ["Neovim", "Hyprland", "Tmux", "Git", "Docker"]
+    goal        = "Become a proficient Security Researcher / Pentester"
+    fun_fact    = "I rice my desktop more than I rice my food 🍚"
+```
 
 ---
 
-### 🤝 Connect with Me
+## 🛡️ TryHackMe
 
-<p align="left">
-  <a href="https://linkedin.com/in/amit-padhan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://amitpadhan525.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-255E00?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/a_m_i_t_01234" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:amitpadhan525@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/amitpadhan525" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
-  <a href="https://tryhackme.com/p/amitpadhan525" target="_blank">
-    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <i>"I love using Linux and learning how stuff actually works under the hood."</i>
-</p>
+<a href="https://tryhackme.com/p/amitpadhan525" target="_blank">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/amitpadhan525.png" alt="TryHackMe" height="100"/>
+</a>
+
+<br/><br/>
+
+| 🏆 Rank | 🔥 Streak | 🚪 Rooms | 🥇 Badges | 🎯 Level |
+|:---:|:---:|:---:|:---:|:---:|
+| **#182,438** | **54 Days** | **61** | **10** | **[0x8] HACKER** |
+
+<sub>📊 Global Rank · **Top 9%** · 🌍 India · 🏅 Pre Security Certified (Feb 2026)</sub>
+
+</div>
+
+<br/>
+
+<details>
+<summary><b>🏅 All 10 Earned Badges — Click to expand</b></summary>
+
+<br/>
+
+| # | Badge | Achievement |
+|:---:|:---|:---|
+| 1 | 🐧 **cat linux.txt** | Being competent in Linux |
+| 2 | 🚀 **First Four** | Completed 4 rooms in the first week |
+| 3 | 🔥 **3 Day Streak** | Achieved a 3-day hacking streak |
+| 4 | 🔥 **7 Day Streak** | Achieved a 7-day hacking streak |
+| 5 | 🔓 **Hash Cracker** | Cracking all those hashes |
+| 6 | 🌐 **Networking Nerd** | Completed the 'Network Fundamentals' module |
+| 7 | 🕸️ **Webbed** | Understanding how the web works |
+| 8 | 🌍 **World Wide Web** | Completed 'How The Web Works' module |
+| 9 | 🔥 **30 Day Streak** | Hacking for 30 days solid |
+| 10 | 🎖️ **Session Held** | Completed 4 weekly missions in a row *(Epic!)* |
+
+</details>
+
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+
+**OS & Shell**
+
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![GNU Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+**Security Tools**
+
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+
+**Dev Tools**
+
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=amitpadhan525&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitpadhan525&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="41%" alt="Top Languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amitpadhan525&theme=tokyonight&hide_border=true" width="55%" alt="GitHub Streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amitpadhan525&theme=tokyo-night&hide_border=true&area=true" width="92%" alt="Contribution Graph"/>
+
+</div>
+
+---
+
+## 🚀 Projects
+
+<div align="center">
+
+| Project | Description |
+|:---|:---|
+| 🐧 [**linux-dotfiles**](https://github.com/amitpadhan525/linux-dotfiles) | Personal Arch Linux config — Hyprland, Waybar, Neovim & more |
+| 📜 [**linux-bash-scripts**](https://github.com/amitpadhan525/linux-bash-scripts) | Bash scripts for system automation & maintenance |
+| 🚩 [**ctf-writeups**](https://github.com/amitpadhan525/ctf-writeups) | Detailed walkthroughs of CTF challenges |
+| 🔎 [**vulnerability-research**](https://github.com/amitpadhan525/vulnerability-research) | Notes on common vulnerabilities & security research |
+
+</div>
+
+---
+
+## 🤝 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amit-padhan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF3E83?style=for-the-badge&logo=google-chrome&logoColor=white)](https://amitpadhan525.github.io)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/amitpadhan525)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/amitpadhan525)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/a_m_i_t_01234)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amitpadhan525@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+
+<sub><i>"I love using Linux and learning how stuff actually works under the hood." — Amit</i></sub>
+
+</div>
