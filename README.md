@@ -9,7 +9,6 @@ Hands-on cybersecurity learner focused on **offensive security**, **Linux intern
 | Platform | Profile |
 |----------|---------|
 | 🐙 GitHub | [amitpadhan525](https://github.com/amitpadhan525) |
-| 🎯 TryHackMe | [amitpadhan525](https://tryhackme.com/amitpadhan525) |
 
 ---
 
@@ -17,7 +16,6 @@ Hands-on cybersecurity learner focused on **offensive security**, **Linux intern
 
 | Metric | Value |
 |--------|-------|
-| **TryHackMe Writeups** | 57+ |
 | **Primary Environment** | Arch Linux (Hyprland) |
 | **Focus Areas** | Enumeration, Web Exploitation, Privilege Escalation, Automation |
 
@@ -27,11 +25,7 @@ Hands-on cybersecurity learner focused on **offensive security**, **Linux intern
 
 Start here for comprehensive walkthroughs:
 
-- 🥒 **[Pickle Rick](./ctf-writeups/tryhackme/pickle-rick.md)** - Web exploitation and command injection techniques
-- 🌱 **[RootMe](./ctf-writeups/tryhackme/rootme.md)** - File upload bypass and SUID privilege escalation
-- 🔨 **[Basic Pentesting](./ctf-writeups/tryhackme/basic-pentesting.md)** - Enumeration fundamentals and SSH key cracking
-
-→ **[View all 57+ writeups](./ctf-writeups/tryhackme/README.md)**
+(Write-ups pending update)
 
 ---
 
@@ -54,12 +48,6 @@ Start here for comprehensive walkthroughs:
 
 ```
 ├── ctf-writeups/
-│   └── tryhackme/
-│       ├── README.md              # Indexed list of all 57+ rooms
-│       ├── pickle-rick.md         # Featured writeups
-│       ├── rootme.md
-│       ├── basic-pentesting.md
-│       └── [50+ additional rooms]
 └── README.md                       # This file
 ```
 
@@ -67,9 +55,8 @@ Start here for comprehensive walkthroughs:
 
 ## 🚀 Getting Started
 
-1. **Browse writeups** - Start with [Featured Write-ups](#-featured-write-ups) above
-2. **Full index** - See all [57+ documented rooms](./ctf-writeups/tryhackme/README.md)
-3. **Topics** - Organized by security domain (networking, web, Linux, etc.)
+1. **Browse writeups** - See the [ctf-writeups](./ctf-writeups/) directory
+2. **Topics** - Organized by security domain (networking, web, Linux, etc.)
 
 ---
 
