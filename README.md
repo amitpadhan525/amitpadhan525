@@ -67,8 +67,8 @@ I am a B.Tech student with a deep passion for **Offensive Security** and **Vulne
 ## 📊 GitHub Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amitpadhan525&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000&title_color=00FF00" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitpadhan525&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&title_color=00FF00" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amitpadhan525&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitpadhan525&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000" width="48%" alt="Top Languages" />
 </div>
 
 <br>
