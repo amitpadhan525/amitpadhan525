@@ -65,14 +65,6 @@ I actively test my skills and study methodologies on:
 *   **OverTheWire** — Linux privilege escalation and command line basics.
 *   **PortSwigger Web Security Academy** — Advanced web application vulnerabilities.
 
----
-
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=amitpadhan525&show_icons=true&theme=nord&count_private=true" alt="Amit's GitHub Stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=amitpadhan525&layout=compact&theme=nord" alt="Top Languages" />
-</p>
 
 ---
 
