@@ -11,14 +11,14 @@
 
 <!-- Profile Badges & Social Links -->
 <p align="center">
-  <a href="https://amitpadhan525.github.io/"><img src="https://img.shields.io/badge/Portfolio-00F5FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio"></a>
-  <a href="https://github.com/amitpadhan525"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/amit-padhan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://tryhackme.com/p/amitpadhan525"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"></a>
-  <a href="https://profile.hackthebox.com/profile/019c3941-83d7-70be-9be8-8f006c7a93f9"><img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HackTheBox"></a>
-  <a href="https://www.instagram.com/a_m_i_t_01234/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://www.reddit.com/user/a_m_i_t_01234/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"></a>
-  <a href="mailto:amitpadhan525@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://amitpadhan525.github.io/"><img src="https://img.shields.io/badge/Portfolio-00F5FF?style=flat-square&logo=googlechrome&logoColor=black" alt="Portfolio"></a>
+  <a href="https://github.com/amitpadhan525"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/amit-padhan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://tryhackme.com/p/amitpadhan525"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white" alt="TryHackMe"></a>
+  <a href="https://profile.hackthebox.com/profile/019c3941-83d7-70be-9be8-8f006c7a93f9"><img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=flat-square&logo=hackthebox&logoColor=black" alt="HackTheBox"></a>
+  <a href="https://www.instagram.com/a_m_i_t_01234/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.reddit.com/user/a_m_i_t_01234/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white" alt="Reddit"></a>
+  <a href="mailto:amitpadhan525@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 </div>
@@ -42,10 +42,10 @@ I am **Amit Padhan**, a **B.Tech Computer Science & Cybersecurity student** from
 <div align="center">
 
 <p align="center">
-  <a href="https://tryhackme.com/p/amitpadhan525"><img src="https://img.shields.io/badge/TryHackMe-amitpadhan525-red?style=for-the-badge&logo=tryhackme&logoColor=white" alt="THM Profile"></a>
-  <a href="https://profile.hackthebox.com/profile/019c3941-83d7-70be-9be8-8f006c7a93f9"><img src="https://img.shields.io/badge/HackTheBox-amitpadhan525-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HTB Profile"></a>
-  <a href="https://overthewire.org"><img src="https://img.shields.io/badge/OverTheWire-Bandit%20%26%20Labs-black?style=for-the-badge&logo=terminal&logoColor=white" alt="OverTheWire"></a>
-  <a href="https://portswigger.net/web-security"><img src="https://img.shields.io/badge/PortSwigger-Web%20Security-orange?style=for-the-badge&logo=burpsuite&logoColor=white" alt="PortSwigger"></a>
+  <a href="https://tryhackme.com/p/amitpadhan525"><img src="https://img.shields.io/badge/TryHackMe-amitpadhan525-red?style=flat-square&logo=tryhackme&logoColor=white" alt="THM Profile"></a>
+  <a href="https://profile.hackthebox.com/profile/019c3941-83d7-70be-9be8-8f006c7a93f9"><img src="https://img.shields.io/badge/HackTheBox-amitpadhan525-9FEF00?style=flat-square&logo=hackthebox&logoColor=black" alt="HTB Profile"></a>
+  <a href="https://overthewire.org"><img src="https://img.shields.io/badge/OverTheWire-Bandit%20%26%20Labs-black?style=flat-square&logo=terminal&logoColor=white" alt="OverTheWire"></a>
+  <a href="https://portswigger.net/web-security"><img src="https://img.shields.io/badge/PortSwigger-Web%20Security-orange?style=flat-square&logo=burpsuite&logoColor=white" alt="PortSwigger"></a>
 </p>
 
 </div>
@@ -56,29 +56,29 @@ I am **Amit Padhan**, a **B.Tech Computer Science & Cybersecurity student** from
 
 <div align="center">
 
-#### 📱 Languages, Systems & Tools (Mobile App Icon Style)
+#### 📱 Languages, Systems & Environments (Mobile App Icon Style)
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,bash,c,cpp,arch,kali,ubuntu,linux,git,github,mysql,docker&theme=dark&perline=6" alt="Mobile App Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=py,bash,c,cpp,arch,kali,ubuntu,linux,git,github,mysql,docker,vscode,powershell,vim,md&theme=dark&perline=8" alt="Mobile App Skill Icons" />
   </a>
 </p>
 
 #### 🛡️ Pentesting & Security Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Nmap-00F5FF?style=for-the-badge&logo=nmap&logoColor=black" alt="Nmap">
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite">
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
-  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit">
-  <img src="https://img.shields.io/badge/Gobuster-00DAE4?style=for-the-badge&logo=go&logoColor=black" alt="Gobuster">
-  <img src="https://img.shields.io/badge/Evil--WinRM-000000?style=for-the-badge&logo=windows&logoColor=white" alt="Evil-WinRM">
-  <img src="https://img.shields.io/badge/Responder-FF0055?style=for-the-badge&logo=security-checked&logoColor=white" alt="Responder">
-  <img src="https://img.shields.io/badge/John_the_Ripper-555555?style=for-the-badge&logo=key&logoColor=white" alt="John the Ripper">
-  <img src="https://img.shields.io/badge/Hashcat-CC0000?style=for-the-badge&logo=cpu&logoColor=white" alt="Hashcat">
-  <img src="https://img.shields.io/badge/Hydra-00FF66?style=for-the-badge&logo=security-checked&logoColor=black" alt="Hydra">
-  <img src="https://img.shields.io/badge/Hyprland-00F5FF?style=for-the-badge&logo=wayland&logoColor=black" alt="Hyprland">
-  <img src="https://img.shields.io/badge/QEMU%2FKVM-FF6600?style=for-the-badge&logo=qemu&logoColor=white" alt="QEMU/KVM">
+  <img src="https://img.shields.io/badge/Nmap-00F5FF?style=flat-square&logo=nmap&logoColor=black" alt="Nmap">
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark">
+  <img src="https://img.shields.io/badge/Metasploit-000000?style=flat-square&logo=metasploit&logoColor=white" alt="Metasploit">
+  <img src="https://img.shields.io/badge/Gobuster-00DAE4?style=flat-square&logo=go&logoColor=black" alt="Gobuster">
+  <img src="https://img.shields.io/badge/Evil--WinRM-000000?style=flat-square&logo=windows&logoColor=white" alt="Evil-WinRM">
+  <img src="https://img.shields.io/badge/Responder-FF0055?style=flat-square&logo=security-checked&logoColor=white" alt="Responder">
+  <img src="https://img.shields.io/badge/John_the_Ripper-555555?style=flat-square&logo=key&logoColor=white" alt="John the Ripper">
+  <img src="https://img.shields.io/badge/Hashcat-CC0000?style=flat-square&logo=cpu&logoColor=white" alt="Hashcat">
+  <img src="https://img.shields.io/badge/Hydra-00FF66?style=flat-square&logo=security-checked&logoColor=black" alt="Hydra">
+  <img src="https://img.shields.io/badge/Hyprland-00F5FF?style=flat-square&logo=wayland&logoColor=black" alt="Hyprland">
+  <img src="https://img.shields.io/badge/QEMU%2FKVM-FF6600?style=flat-square&logo=qemu&logoColor=white" alt="QEMU/KVM">
 </p>
 
 </div>
