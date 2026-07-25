@@ -1,30 +1,26 @@
 <div align="center">
 
-<!-- Capsule Render Dynamic Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0,00F5FF,00FF66&height=200&section=header&text=AMIT%20PADHAN&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35" width="100%" alt="Header Banner" />
-
-<!-- Typing Subtitle -->
+<!-- Typing SVG Header -->
 <a href="https://github.com/amitpadhan525">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F5FF&center=true&vcenter=true&width=700&lines=B.Tech+CS+%26+Cybersecurity+Student;Offensive+Security+%26+Red+Teaming+Researcher;Arch+Linux+%2B+Hyprland+WM+Power+User;Developer+of+LinuxEye+%26+ReconX" alt="Typing Subtitle" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=00F5FF&center=true&vcenter=true&width=650&lines=AMIT+PADHAN;B.Tech+Cybersecurity+Student;Offensive+Security+%26+Red+Teaming;Arch+Linux+%2B+Hyprland+Enthusiast" alt="Typing Header" />
 </a>
 
 <p align="center">
-  <b>Offensive Security | System Internals | Arch Linux Specialist 🐧 | Red Teaming</b>
+  <b>Offensive Security | Linux System Internals | Arch Linux Specialist 🐧 | Red Teaming</b>
 </p>
 
 <!-- Mobile App Skill Icons (Social & Connect) -->
 <p align="center">
   <a href="https://github.com/amitpadhan525">
-    <img src="https://skillicons.dev/icons?i=github,linkedin,instagram,discord,reddit,gmail&theme=dark" alt="Social Mobile Icons" />
+    <img src="https://skillicons.dev/icons?i=github,linkedin,instagram,discord,gmail&theme=dark" alt="Social Mobile Icons" />
   </a>
 </p>
 
 <!-- Quick Link Badges -->
 <p align="center">
-  <a href="https://amitpadhan525.github.io/"><img src="https://img.shields.io/badge/Portfolio-00F5FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio"></a>
-  <a href="https://tryhackme.com/p/amitpadhan525"><img src="https://img.shields.io/badge/TryHackMe-amitpadhan525-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"></a>
-  <a href="https://profile.hackthebox.com/profile/019c3941-83d7-70be-9be8-8f006c7a93f9"><img src="https://img.shields.io/badge/HackTheBox-amitpadhan525-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HackTheBox"></a>
-  <a href="mailto:amitpadhan525@gmail.com"><img src="https://img.shields.io/badge/Email-amitpadhan525@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://amitpadhan525.github.io/"><img src="https://img.shields.io/badge/Portfolio-00F5FF?style=flat&logo=googlechrome&logoColor=black" alt="Portfolio"></a>
+  <a href="https://tryhackme.com/p/amitpadhan525"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white" alt="TryHackMe"></a>
+  <a href="https://profile.hackthebox.com/profile/019c3941-83d7-70be-9be8-8f006c7a93f9"><img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=flat&logo=hackthebox&logoColor=black" alt="HackTheBox"></a>
 </p>
 
 </div>
@@ -45,31 +41,31 @@
 
 ---
 
-### 📱 Tech Stack, Languages & Tools (Mobile Icon Style)
+### 📱 Tech Stack & Environments (Mobile Icon Style)
 
 <div align="center">
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,bash,c,cpp,arch,kali,ubuntu,linux,git,github,mysql,docker,vscode,powershell,vim,md&theme=dark&perline=8" alt="Mobile App Skill Icons Grid" />
+    <img src="https://skillicons.dev/icons?i=py,bash,c,cpp,arch,kali,ubuntu,linux,git,github,docker,vscode,powershell,vim&theme=dark&perline=7" alt="Mobile App Skill Icons Grid" />
   </a>
 </p>
 
 </div>
 
-#### 🛡️ Pentesting & Offensive Security Arsenal
+#### 🛡️ Pentesting & Security Toolkit
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Nmap-00F5FF?style=flat-square&logo=nmap&logoColor=black" alt="Nmap">
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite">
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark">
-  <img src="https://img.shields.io/badge/Metasploit-000000?style=flat-square&logo=metasploit&logoColor=white" alt="Metasploit">
-  <img src="https://img.shields.io/badge/Gobuster-00DAE4?style=flat-square&logo=go&logoColor=black" alt="Gobuster">
-  <img src="https://img.shields.io/badge/Evil--WinRM-000000?style=flat-square&logo=windows&logoColor=white" alt="Evil-WinRM">
-  <img src="https://img.shields.io/badge/Responder-FF0055?style=flat-square&logo=security-checked&logoColor=white" alt="Responder">
-  <img src="https://img.shields.io/badge/John_the_Ripper-555555?style=flat-square&logo=key&logoColor=white" alt="John the Ripper">
-  <img src="https://img.shields.io/badge/Hashcat-CC0000?style=flat-square&logo=cpu&logoColor=white" alt="Hashcat">
-  <img src="https://img.shields.io/badge/Hydra-00FF66?style=flat-square&logo=security-checked&logoColor=black" alt="Hydra">
+  <img src="https://img.shields.io/badge/Nmap-00F5FF?style=flat&logo=nmap&logoColor=black" alt="Nmap">
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=flat&logo=burpsuite&logoColor=white" alt="Burp Suite">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" alt="Wireshark">
+  <img src="https://img.shields.io/badge/Metasploit-000000?style=flat&logo=metasploit&logoColor=white" alt="Metasploit">
+  <img src="https://img.shields.io/badge/Gobuster-00DAE4?style=flat&logo=go&logoColor=black" alt="Gobuster">
+  <img src="https://img.shields.io/badge/Evil--WinRM-000000?style=flat&logo=windows&logoColor=white" alt="Evil-WinRM">
+  <img src="https://img.shields.io/badge/Responder-FF0055?style=flat&logo=security-checked&logoColor=white" alt="Responder">
+  <img src="https://img.shields.io/badge/John_the_Ripper-555555?style=flat&logo=key&logoColor=white" alt="John the Ripper">
+  <img src="https://img.shields.io/badge/Hashcat-CC0000?style=flat&logo=cpu&logoColor=white" alt="Hashcat">
+  <img src="https://img.shields.io/badge/Hydra-00FF66?style=flat&logo=security-checked&logoColor=black" alt="Hydra">
 </p>
 
 ---
@@ -132,6 +128,5 @@
 > [!IMPORTANT]
 > **Ethical Disclaimer:** All tools, research scripts, and lab configurations created or maintained by me are built strictly for authorized penetration testing, educational purposes, and ethical security research.
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0,00FF66,00F5FF&height=80&section=footer" width="100%" alt="Footer Banner" />
-</p>
+<br>
+1
