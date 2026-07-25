@@ -42,12 +42,6 @@ I am **Amit Padhan**, a **B.Tech Computer Science & Cybersecurity student** from
 <div align="center">
 
 <p align="center">
-  <a href="https://tryhackme.com/p/amitpadhan525">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/amitpadhan525.png" alt="TryHackMe Badge" height="110" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://tryhackme.com/p/amitpadhan525"><img src="https://img.shields.io/badge/TryHackMe-amitpadhan525-red?style=for-the-badge&logo=tryhackme&logoColor=white" alt="THM Profile"></a>
   <a href="https://profile.hackthebox.com/profile/019c3941-83d7-70be-9be8-8f006c7a93f9"><img src="https://img.shields.io/badge/HackTheBox-amitpadhan525-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HTB Profile"></a>
   <a href="https://overthewire.org"><img src="https://img.shields.io/badge/OverTheWire-Bandit%20%26%20Labs-black?style=for-the-badge&logo=terminal&logoColor=white" alt="OverTheWire"></a>
@@ -62,17 +56,17 @@ I am **Amit Padhan**, a **B.Tech Computer Science & Cybersecurity student** from
 
 <div align="center">
 
-#### 💻 Languages & Scripting
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Bash/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
+#### 📱 Languages, Systems & Tools (Mobile App Icon Style)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,bash,c,cpp,arch,kali,ubuntu,linux,git,github,mysql,docker&theme=dark&perline=6" alt="Mobile App Skill Icons" />
+  </a>
 </p>
 
 #### 🛡️ Pentesting & Security Tools
-<p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Nmap-00F5FF?style=for-the-badge&logo=nmap&logoColor=black" alt="Nmap">
   <img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite">
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
@@ -83,17 +77,8 @@ I am **Amit Padhan**, a **B.Tech Computer Science & Cybersecurity student** from
   <img src="https://img.shields.io/badge/John_the_Ripper-555555?style=for-the-badge&logo=key&logoColor=white" alt="John the Ripper">
   <img src="https://img.shields.io/badge/Hashcat-CC0000?style=for-the-badge&logo=cpu&logoColor=white" alt="Hashcat">
   <img src="https://img.shields.io/badge/Hydra-00FF66?style=for-the-badge&logo=security-checked&logoColor=black" alt="Hydra">
-</p>
-
-#### 🖥️ Systems, Virtualization & Environments
-<p>
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux">
   <img src="https://img.shields.io/badge/Hyprland-00F5FF?style=for-the-badge&logo=wayland&logoColor=black" alt="Hyprland">
   <img src="https://img.shields.io/badge/QEMU%2FKVM-FF6600?style=for-the-badge&logo=qemu&logoColor=white" alt="QEMU/KVM">
-  <img src="https://img.shields.io/badge/Kali_Linux-557CDA?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
 
 </div>
@@ -152,20 +137,6 @@ I am **Amit Padhan**, a **B.Tech Computer Science & Cybersecurity student** from
     </td>
   </tr>
 </table>
-
----
-
-### 📊 GitHub Activity & Statistics
-
-<div align="center">
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=amitpadhan525&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Amit's GitHub Stats" height="175" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitpadhan525&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="175" />
-  </p>
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitpadhan525&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
-  </p>
-</div>
 
 ---
 
