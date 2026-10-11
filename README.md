@@ -130,5 +130,19 @@
 
 ---
 
+### 🏆 GitHub Achievements
+
+<p align="center">
+  <a href="https://github.com/amitpadhan525?tab=achievements">
+    <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-765e921d7b3b.png" width="65" alt="Pair Extraordinaire" title="Pair Extraordinaire" />
+    <img src="https://github.githubassets.com/assets/galaxy-brain-default-847262c21056.png" width="65" alt="Galaxy Brain" title="Galaxy Brain" />
+    <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="65" alt="YOLO" title="YOLO" />
+    <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="65" alt="Quickdraw" title="Quickdraw" />
+    <img src="https://github.githubassets.com/assets/starstruck-default-b6610abad518.png" width="65" alt="Starstruck" title="Starstruck" />
+  </a>
+</p>
+
+---
+
 > [!IMPORTANT]
 > **Ethical Disclaimer:** All tools, research scripts, and lab configurations created or maintained by me are built strictly for authorized penetration testing, educational purposes, and ethical security research.
