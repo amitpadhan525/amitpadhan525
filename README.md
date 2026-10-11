@@ -18,12 +18,16 @@
 
 <!-- Quick Link Badges -->
 <p align="center">
+  <a href="https://github.com/amitpadhan979"><img src="https://img.shields.io/badge/Secondary_Profile-amitpadhan979-181717?style=flat&logo=github&logoColor=white" alt="Secondary Profile"></a>
   <a href="https://amitpadhan525.github.io/"><img src="https://img.shields.io/badge/Portfolio-00F5FF?style=flat&logo=googlechrome&logoColor=black" alt="Portfolio"></a>
   <a href="https://tryhackme.com/p/amitpadhan525"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white" alt="TryHackMe"></a>
   <a href="https://profile.hackthebox.com/profile/019c3941-83d7-70be-9be8-8f006c7a93f9"><img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=flat&logo=hackthebox&logoColor=black" alt="HackTheBox"></a>
 </p>
 
 </div>
+
+> [!NOTE]
+> 🛠️ **Secondary Developer Profile:** Looking for my general open-source web applications, utilities, and developer projects? Check out my secondary profile: [**@amitpadhan979**](https://github.com/amitpadhan979).
 
 ---
 
@@ -37,6 +41,7 @@
    /   ,,   \     Primary Focus: Offensive Security, Red Teaming, Web Security & System Internals
   /   |  |  -\    Virtual Lab: QEMU/KVM (br0 bridge, tap0-3, isolated 192.168.100.x subnet)
  /_-''    ''-_\   Key Projects: linux-eye (monitoring), ReconX (recon), qemu-kvm-lab (virtualization)
+                  Secondary ID: @amitpadhan979 (Web Apps, Tools & Experiments)
 ```
 
 ---
@@ -127,6 +132,3 @@
 
 > [!IMPORTANT]
 > **Ethical Disclaimer:** All tools, research scripts, and lab configurations created or maintained by me are built strictly for authorized penetration testing, educational purposes, and ethical security research.
-
-<br>
-1
