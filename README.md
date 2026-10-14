@@ -41,6 +41,25 @@
 
 ---
 
+### 🌟 Featured Project: SDDM Themes Collection
+
+<div align="center">
+
+[![SDDM Themes](https://github-readme-stats.vercel.app/api/pin/?username=amitpadhan525&repo=sddm-themes&theme=tokyonight)](https://github.com/amitpadhan525/sddm-themes)
+
+<br/>
+
+**[👉 Explore & Star sddm-themes on GitHub](https://github.com/amitpadhan525/sddm-themes)**
+
+*A curated suite of modern, glassmorphic, and high-contrast SDDM login greeters engineered for Qt6, Wayland, and Arch Linux.*
+
+[![GitHub stars](https://img.shields.io/github/stars/amitpadhan525/sddm-themes?style=social)](https://github.com/amitpadhan525/sddm-themes/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/amitpadhan525/sddm-themes?style=social)](https://github.com/amitpadhan525/sddm-themes/network/members)
+
+</div>
+
+---
+
 ### 🚀 Flagship Projects
 
 | Project | Stack | Description | Stars |
