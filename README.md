@@ -20,7 +20,7 @@
 - 🛡️ **Security Research:** Developing host-based intrusion monitoring tools (EDR), network reconnaissance frameworks, and automated exploit sandboxes.
 - 🐧 **Linux Specialist:** Arch Linux workstation runner powered by Hyprland (Wayland) + Waybar + Kitty, exploring kernel interfaces (`inotify`, `psutil`, `systemd`).
 - 🔐 **Cryptography & Systems:** Building offline AES-256-GCM container vaults and virtualized network labs with QEMU/KVM (`br0`, TAP interfaces).
-- 🛠️ **Open Source:** Maintaining popular customization themes ([`sddm-themes`](https://github.com/amitpadhan525/sddm-themes)) and modular configurations ([`linux-dotfiles`](https://github.com/amitpadhan525/linux-dotfiles)).
+- 🛠️ **Open Source:** Maintaining modular configurations ([`linux-dotfiles`](https://github.com/amitpadhan525/linux-dotfiles)).
 
 ---
 
@@ -41,24 +41,6 @@
 
 ---
 
-### 🌟 Featured Project: SDDM Themes Collection
-
-<div align="center">
-
-[![SDDM Themes](https://github-readme-stats.vercel.app/api/pin/?username=amitpadhan525&repo=sddm-themes&theme=tokyonight)](https://github.com/amitpadhan525/sddm-themes)
-
-<br/>
-
-**[👉 Explore & Star sddm-themes on GitHub](https://github.com/amitpadhan525/sddm-themes)**
-
-*A curated suite of modern, glassmorphic, and high-contrast SDDM login greeters engineered for Qt6, Wayland, and Arch Linux.*
-
-[![GitHub stars](https://img.shields.io/github/stars/amitpadhan525/sddm-themes?style=social)](https://github.com/amitpadhan525/sddm-themes/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/amitpadhan525/sddm-themes?style=social)](https://github.com/amitpadhan525/sddm-themes/network/members)
-
-</div>
-
----
 
 ### 🚀 Flagship Projects
 
@@ -68,7 +50,6 @@
 | [**locker**](https://github.com/amitpadhan525/locker) | `Python` `AES-256-GCM` | 100% offline, zero-knowledge encrypted vault & virtual drive application with Google Drive backup. | [![Stars](https://img.shields.io/github/stars/amitpadhan525/locker?style=flat-square&color=00F5FF)](https://github.com/amitpadhan525/locker) |
 | [**ReconX**](https://github.com/amitpadhan525/ReconX) | `Python` `Sockets` | Multi-threaded network reconnaissance framework with TCP port scanning, banner grabbing, and directory fuzzing. | [![Stars](https://img.shields.io/github/stars/amitpadhan525/ReconX?style=flat-square&color=00F5FF)](https://github.com/amitpadhan525/ReconX) |
 | [**erp-autologin**](https://github.com/amitpadhan525/erp-autologin) | `Java` `Android` `ML Kit` | Automated login assistant featuring on-device OCR CAPTCHA recognition and secure credential storage. | [![Stars](https://img.shields.io/github/stars/amitpadhan525/erp-autologin?style=flat-square&color=00F5FF)](https://github.com/amitpadhan525/erp-autologin) |
-| [**sddm-themes**](https://github.com/amitpadhan525/sddm-themes) | `QML` `Qt6` `KDE` | Modern glassmorphism SDDM login theme featuring large digital typography, neon accents, and smooth animations. | [![Stars](https://img.shields.io/github/stars/amitpadhan525/sddm-themes?style=flat-square&color=00F5FF)](https://github.com/amitpadhan525/sddm-themes) |
 | [**linux-dotfiles**](https://github.com/amitpadhan525/linux-dotfiles) | `Shell` `Hyprland` | Production Arch Linux Wayland desktop environment (Catppuccin Mocha, Waybar, Rofi, Kitty). | [![Stars](https://img.shields.io/github/stars/amitpadhan525/linux-dotfiles?style=flat-square&color=00F5FF)](https://github.com/amitpadhan525/linux-dotfiles) |
 | [**qemu-kvm-lab**](https://github.com/amitpadhan525/qemu-kvm-lab) | `Shell` `KVM` `QEMU` | Automated isolated virtualization lab setup on Arch Linux (Win 11, Kali Linux, Metasploitable2, TPM 2.0). | [![Stars](https://img.shields.io/github/stars/amitpadhan525/qemu-kvm-lab?style=flat-square&color=00F5FF)](https://github.com/amitpadhan525/qemu-kvm-lab) |
 | [**security-notes**](https://github.com/amitpadhan525/security-notes) | `Markdown` `CTF` | Curated offensive security documentation, TryHackMe & Hack The Box walkthroughs, and cheat sheets. | [![Stars](https://img.shields.io/github/stars/amitpadhan525/security-notes?style=flat-square&color=00F5FF)](https://github.com/amitpadhan525/security-notes) |
