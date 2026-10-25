@@ -92,13 +92,13 @@ An autonomous host-based intrusion detection daemon running seamlessly on Linux 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=amitpadhan525&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF" height="155" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=amitpadhan525&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&cache_seconds=1800" height="155" alt="GitHub Stats" />
 &nbsp;
-<img src="https://streak-stats.demolab.com/?user=amitpadhan525&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF&currStreakNum=00F5FF&sideNums=ffffff" height="155" alt="GitHub Streak Stats" />
+<img src="https://streak-stats.demolab.com/?user=amitpadhan525&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF&currStreakNum=00F5FF&sideNums=ffffff&cache_seconds=1800" height="155" alt="GitHub Streak Stats" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitpadhan525&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=ffffff" height="145" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitpadhan525&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=ffffff&cache_seconds=1800" height="145" alt="Top Languages" />
 
 </div>
 
